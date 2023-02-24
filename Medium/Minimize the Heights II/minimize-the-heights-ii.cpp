@@ -34,9 +34,9 @@ class Solution {
 
 //{ Driver Code Starts.
 int main() {
-    int t;
-    cin >> t;
-    while (t--) {
+    int T;
+    cin >> T;
+    while (T--) {
         int n, k;
         cin >> k;
         cin >> n;
