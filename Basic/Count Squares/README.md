@@ -1,4 +1,4 @@
-<h2><a href="https://practice.geeksforgeeks.org/problems/count-squares3649/1">Count Squares</a></h2><h3>Difficulty Level : Basic</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size:18px">Consider a sample space S consisting of all perfect squares starting from 1, 4, 9 and so on. You are given a number <strong>N</strong>, you have to output the number of integers less than N in the sample space S.</span></p>
+<h2><a href="https://practice.geeksforgeeks.org/problems/count-squares3649/1">Count Squares</a></h2><h3>Difficulty Level : Basic</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size:18px">Consider a sample space S consisting of all perfect squaress starting from 1, 4, 9 and so on. You are given a number <strong>N</strong>, you have to output the number of integers less than N in the sample space S.</span></p>
 
 <p>&nbsp;</p>
 
