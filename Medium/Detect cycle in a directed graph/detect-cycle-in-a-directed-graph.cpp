@@ -11,7 +11,7 @@ class Solution {
         
         //traverse for adjacent nodes
         for(auto it:adj[i]){
-            // when the node is not visited
+            
             if(!vis[it]){
                 if(dfscheck(it,adj,vis,pathvis)==true) return true;
             }
