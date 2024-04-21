@@ -8,7 +8,7 @@ using namespace std;
 class Solution
 {
     public:
-    //Function to return max value that can be put in knapsack of capacity W.
+    //Function to return max value that can be put in knapsack 
     int f(int W,int wt[],int val[],int n,int i,vector<vector<int>>&dp){
         if(W<=0 || i==n){
             return 0;
